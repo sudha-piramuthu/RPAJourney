@@ -1,0 +1,22 @@
+I am sudha. I start my career as a .net developer. I worked in windows
+mobile application and desktop/windows application using .net framework & SqlServer as backend.
+and also I gained proficient knowledge in Sage Accpac Erp system and SageAct CRM system during this period.
+I am a MCTS certified candidate at that time of working as a .Net developer.
+From 2018,I start working in RPA.
+My first  bot in Marlabs is the Travel bot, We automate the company business travel trip process ie., Flight,Hotel and Car rental service.
+My Part is automating hotel booking process.
+
+
+
+
+
+
+
+
+
+Final Question to ask the interviewer
+1.What is the nature of the job/position
+2. Any other time zone coordination
+3. Any direct client interactions
+4. Working hours
+Thanks for taking time to interview me. It is very pleasure and comfortable talking to you.
